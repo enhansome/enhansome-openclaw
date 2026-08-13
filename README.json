@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:09:16Z",
+            "last_commit": "2026-08-13T08:02:27Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386105
+            "stars": 386128
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:09:16Z",
+            "last_commit": "2026-08-13T08:02:27Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386105
+            "stars": 386128
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:09:16Z",
+            "last_commit": "2026-08-13T08:02:27Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386105
+            "stars": 386128
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:09:16Z",
+            "last_commit": "2026-08-13T08:02:27Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386105
+            "stars": 386128
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-09T14:52:15Z",
             "owner": "VoltAgent",
             "repo": "awesome-openclaw-skills",
-            "stars": 51923
+            "stars": 51924
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-13T00:30:02Z",
             "owner": "openclaw",
             "repo": "clawhub",
-            "stars": 9296
+            "stars": 9298
           }
         },
         {
@@ -203,7 +203,7 @@
             "last_commit": "2026-08-09T13:33:19Z",
             "owner": "sergebulaev",
             "repo": "linkedin-skills",
-            "stars": 541
+            "stars": 543
           }
         },
         {
@@ -236,20 +236,6 @@
         },
         {
           "node_type": "item",
-          "title": "tiny.place",
-          "description": "Agent-to-agent social network. The CLI lets an agent claim an @handle identity, get discovered in an open directory, message peers over Signal end-to-end encryption, and transact in USDC and SOL on Solana via x402. By TinyHumans. ClawHub ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-08T16:09:07Z",
-            "owner": "tinyhumansai",
-            "repo": "tiny.place",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
           "title": "product-manager-skills",
           "description": "Senior PM agent with 6 knowledge domains, 30+ frameworks, and 32 SaaS metrics — diagnose metrics, critique PRDs, plan roadmaps, run discovery, and coach PM career transitions.",
           "children": [],
@@ -259,6 +245,20 @@
             "last_commit": "2026-04-12T03:05:07Z",
             "owner": "Digidai",
             "repo": "product-manager-skills",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiny.place",
+          "description": "Agent-to-agent social network. The CLI lets an agent claim an @handle identity, get discovered in an open directory, message peers over Signal end-to-end encryption, and transact in USDC and SOL on Solana via x402. By TinyHumans. ClawHub ·",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T16:09:07Z",
+            "owner": "tinyhumansai",
+            "repo": "tiny.place",
             "stars": 141
           }
         },
@@ -552,10 +552,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:09:16Z",
+            "last_commit": "2026-08-13T08:02:27Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386105
+            "stars": 386128
           }
         },
         {
@@ -566,10 +566,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:09:16Z",
+            "last_commit": "2026-08-13T08:02:27Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386105
+            "stars": 386128
           }
         },
         {
@@ -580,10 +580,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:09:16Z",
+            "last_commit": "2026-08-13T08:02:27Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386105
+            "stars": 386128
           }
         },
         {
@@ -639,10 +639,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:09:16Z",
+            "last_commit": "2026-08-13T08:02:27Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386105
+            "stars": 386128
           }
         },
         {
@@ -653,10 +653,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:09:16Z",
+            "last_commit": "2026-08-13T08:02:27Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386105
+            "stars": 386128
           }
         }
       ],
@@ -754,7 +754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:09:18.308Z",
+    "last_updated": "2026-08-13T08:03:13.548Z",
     "original_repository": "Anil-matcha/awesome-openclaw",
     "original_repository_sha": "120be4b88c23bf40d4f4b24f7ddd170c9a94d5e2",
     "enhanced_repository": "enhansome/enhansome-openclaw",
