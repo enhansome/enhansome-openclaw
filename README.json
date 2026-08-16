@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:06:34Z",
+            "last_commit": "2026-08-16T07:11:03Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386335
+            "stars": 386425
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:06:34Z",
+            "last_commit": "2026-08-16T07:11:03Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386335
+            "stars": 386425
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:06:34Z",
+            "last_commit": "2026-08-16T07:11:03Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386335
+            "stars": 386425
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:06:34Z",
+            "last_commit": "2026-08-16T07:11:03Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386335
+            "stars": 386425
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-13T09:16:42Z",
             "owner": "VoltAgent",
             "repo": "awesome-openclaw-skills",
-            "stars": 51951
+            "stars": 51981
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-15T05:03:03Z",
             "owner": "openclaw",
             "repo": "clawhub",
-            "stars": 9309
+            "stars": 9314
           }
         },
         {
@@ -154,7 +154,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T20:59:07Z",
+            "last_commit": "2026-08-16T05:38:29Z",
             "owner": "athola",
             "repo": "claude-night-market",
             "stars": 328
@@ -203,7 +203,7 @@
             "last_commit": "2026-08-09T13:33:19Z",
             "owner": "sergebulaev",
             "repo": "linkedin-skills",
-            "stars": 552
+            "stars": 557
           }
         },
         {
@@ -217,7 +217,7 @@
             "last_commit": "2026-08-12T13:21:43Z",
             "owner": "ZeroPointRepo",
             "repo": "youtube-skills",
-            "stars": 514
+            "stars": 518
           }
         },
         {
@@ -228,10 +228,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T19:10:21Z",
+            "last_commit": "2026-08-15T09:11:34Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 180
+            "stars": 181
           }
         },
         {
@@ -343,7 +343,7 @@
             "last_commit": "2026-07-27T04:44:58Z",
             "owner": "JuneYaooo",
             "repo": "mediwise-health-suite",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -552,10 +552,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:06:34Z",
+            "last_commit": "2026-08-16T07:11:03Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386335
+            "stars": 386425
           }
         },
         {
@@ -566,10 +566,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:06:34Z",
+            "last_commit": "2026-08-16T07:11:03Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386335
+            "stars": 386425
           }
         },
         {
@@ -580,10 +580,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:06:34Z",
+            "last_commit": "2026-08-16T07:11:03Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386335
+            "stars": 386425
           }
         },
         {
@@ -639,10 +639,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:06:34Z",
+            "last_commit": "2026-08-16T07:11:03Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386335
+            "stars": 386425
           }
         },
         {
@@ -653,10 +653,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:06:34Z",
+            "last_commit": "2026-08-16T07:11:03Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386335
+            "stars": 386425
           }
         }
       ],
@@ -754,7 +754,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:09:04.727Z",
+    "last_updated": "2026-08-16T07:12:13.877Z",
     "original_repository": "Anil-matcha/awesome-openclaw",
     "original_repository_sha": "120be4b88c23bf40d4f4b24f7ddd170c9a94d5e2",
     "enhanced_repository": "enhansome/enhansome-openclaw",
