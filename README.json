@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T07:22:06Z",
+            "last_commit": "2026-08-19T07:22:10Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386598
+            "stars": 386713
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T07:22:06Z",
+            "last_commit": "2026-08-19T07:22:10Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386598
+            "stars": 386713
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T07:22:06Z",
+            "last_commit": "2026-08-19T07:22:10Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386598
+            "stars": 386713
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T07:22:06Z",
+            "last_commit": "2026-08-19T07:22:10Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386598
+            "stars": 386713
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1148501237,
             "language": "Shell",
             "last_commit": "2026-02-03T05:15:52Z",
             "owner": "RioTheGreat-ai",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1188538173,
             "language": "Python",
             "last_commit": "2026-04-04T00:29:41Z",
             "owner": "claw-army",
@@ -91,670 +97,541 @@
       "title": "Official Resources"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Getting Started"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Quick Install"
-    },
-    {
-      "description": "Access the built-in web dashboard at to chat, manage integrations, and configure your agent without any CLI.",
-      "items": [],
-      "title": "Web Dashboard"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Installation Guides"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-openclaw-skills",
+              "description": "Community curated collection",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1141704318,
+                "language": null,
+                "last_commit": "2026-08-17T12:04:23Z",
+                "owner": "VoltAgent",
+                "repo": "awesome-openclaw-skills",
+                "stars": 52042
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openclaw/clawhub",
+              "description": "Skill directory source",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1127248221,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T06:58:13Z",
+                "owner": "openclaw",
+                "repo": "clawhub",
+                "stars": 9327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "night-market",
+              "description": "166 curated skills for code review, testing, docs, and architecture.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1102281968,
+                "language": "Python",
+                "last_commit": "2026-08-16T22:51:22Z",
+                "owner": "athola",
+                "repo": "claude-night-market",
+                "stars": 329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentFund",
+              "description": "Crowdfunding platform for AI agents (milestone-based escrow on Base)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1148501237,
+                "language": "Shell",
+                "last_commit": "2026-02-03T05:15:52Z",
+                "owner": "RioTheGreat-ai",
+                "repo": "agentfund-skill",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Skill Registries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LinkedIn Skills",
+              "description": "10 MIT-licensed skills for LinkedIn content and engagement: post writer with 16 tested hook formulas, humanizer that strips AI tells, pre-publish audit, comment drafter, reply handler, hook extractor, content planner, profile optimizer, engager analytics, and thread monitor. Focused on writing in your own voice rather than API automation. All 10 skills on ClawHub; also runs in Claude Code and Codex.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1210670063,
+                "language": "Python",
+                "last_commit": "2026-08-18T11:05:52Z",
+                "owner": "sergebulaev",
+                "repo": "linkedin-skills",
+                "stars": 567
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "youtube-full",
+              "description": "YouTube transcripts, video/channel search, channel browsing, and playlist extraction via TranscriptAPI. No yt-dlp, works from any cloud server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1147294830,
+                "language": null,
+                "last_commit": "2026-08-18T23:07:46Z",
+                "owner": "ZeroPointRepo",
+                "repo": "youtube-skills",
+                "stars": 535
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "x-twitter-scraper",
+              "description": "Xquik skill and API surface for X data workflows: tweet search, user lookup, follower/following exports, engagement metrics, account monitoring, extraction jobs, REST API, MCP server, SDKs, and webhooks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1168120544,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T23:08:20Z",
+                "owner": "Xquik-dev",
+                "repo": "x-twitter-scraper",
+                "stars": 183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "product-manager-skills",
+              "description": "Senior PM agent with 6 knowledge domains, 30+ frameworks, and 32 SaaS metrics — diagnose metrics, critique PRDs, plan roadmaps, run discovery, and coach PM career transitions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1171476919,
+                "language": "Shell",
+                "last_commit": "2026-04-12T03:05:07Z",
+                "owner": "Digidai",
+                "repo": "product-manager-skills",
+                "stars": 147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tiny.place",
+              "description": "Agent-to-agent social network. The CLI lets an agent claim an @handle identity, get discovered in an open directory, message peers over Signal end-to-end encryption, and transact in USDC and SOL on Solana via x402. By TinyHumans. ClawHub ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1261690469,
+                "language": "TypeScript",
+                "last_commit": "2026-08-08T16:09:07Z",
+                "owner": "tinyhumansai",
+                "repo": "tiny.place",
+                "stars": 126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dev-gtm-claude-skills",
+              "description": "by Infrasity-Labs - Open-source, cross-platform agent skills for Claude Code and agentskills.io-compatible platforms. These skills are for SEO, GEO (Generative Engine Optimization), AI discoverability, and developer marketing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1234477934,
+                "language": "Python",
+                "last_commit": "2026-06-28T19:34:19Z",
+                "owner": "Infrasity-Labs",
+                "repo": "dev-gtm-claude-skills",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TweetClaw",
+              "description": "OpenClaw plugin for X/Twitter automation - search tweets and tweet replies, post tweets, export followers, handle media workflows, monitor accounts, send webhooks, and run giveaway draws through Xquik.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1180792440,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T19:22:31Z",
+                "owner": "Xquik-dev",
+                "repo": "tweetclaw",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Resemble Detect",
+              "description": "Deepfake detection and media safety for OpenClaw — detect AI-generated audio, images, video, and text; identify which AI platform synthesized fake audio (source tracing); apply invisible watermarks for provenance; verify speaker identity. Powered by Resemble AI. Install via .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1205242089,
+                "language": null,
+                "last_commit": "2026-08-17T15:22:58Z",
+                "owner": "resemble-ai",
+                "repo": "detect-skill",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LinkedIn",
+              "description": "General-purpose LinkedIn automation via Linked API — fetch profiles, search people and companies, send messages, manage connections, create posts, and more. Supports Sales Navigator and custom workflows. ClawHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1165735909,
+                "language": "JavaScript",
+                "last_commit": "2026-08-13T10:13:29Z",
+                "owner": "Linked-API",
+                "repo": "linkedin-skills",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ATXP",
+              "description": "Give your OpenClaw agent a funded identity: USDC wallet on Base, inbox, phone number, and 100+ paid tools (web search, image/video generation, LLM gateway, SMS, voice). Self-registers in one command — no KYC, no human login.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1165135808,
+                "language": "TypeScript",
+                "last_commit": "2026-03-03T20:25:44Z",
+                "owner": "atxp-dev",
+                "repo": "atxp",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MediWise Health Suite",
+              "description": "Family health management skill — health record keeping, diet tracking, weight management, medication reminders, and medical image recognition, all with local SQLite storage for privacy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1176012398,
+                "language": "Python",
+                "last_commit": "2026-07-27T04:44:58Z",
+                "owner": "JuneYaooo",
+                "repo": "mediwise-health-suite",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VeriClaw",
+              "description": "Apple-native correction companion for OpenClaw focused on AI agent correction, LLM supervision, hallucination remediation, role-drift diagnosis, and verification workflows. ClawHub Skill · ClawHub Plugin ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1201178382,
+                "language": "Shell",
+                "last_commit": "2026-04-08T00:18:17Z",
+                "owner": "Sheygoodbai",
+                "repo": "vericlaw",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Web Search Pro",
+              "description": "Agent-first web search and retrieval stack with a real no-key baseline, explainable routing, visible federated-search gains, and built-in extract, crawl, map, and research flows. ClawHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1153390977,
+                "language": "JavaScript",
+                "last_commit": "2026-03-14T07:37:48Z",
+                "owner": "Zjianru",
+                "repo": "web-search-pro",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "News API",
+              "description": "Install-ready skill for OpenClaw and other agent runtimes, enabling secure latest-news and search across workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1205852086,
+                "language": "Shell",
+                "last_commit": "2026-07-12T00:11:32Z",
+                "owner": "currentslab",
+                "repo": "news-api-skills",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Useful AI",
+              "description": "Shared utility tool library for AI agents. Dispatch data tasks (parsing, normalization, validation, conversion) in plain English, get structured output. 200+ tools, auto-generated, no auth required. Skill file at usefulai.fun/skill.md.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1190046154,
+                "language": null,
+                "last_commit": "2026-04-01T23:25:58Z",
+                "owner": "uAI-solana",
+                "repo": "useful-ai-skills",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentWell",
+              "description": "Hosted cognitive wellness API for OpenClaw agents — 18 tools including intent_verify (blocks goal drift before irreversible actions), polarity_sync (surfaces what two opposing agents cannot see alone), cost_guard (runaway loop detection), rollback (snapshot/restore), and ocean (foundational nature check). Free tier + PAYG. API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1188281993,
+                "language": "Python",
+                "last_commit": "2026-03-25T02:58:50Z",
+                "owner": "metafiopy-tech",
+                "repo": "agentwell",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sequenzy Email Marketing",
+              "description": "Operate Sequenzy lifecycle email marketing and transactional email workflows: subscribers, segments, campaigns, sequences, templates, and stats. ClawHub ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1187635501,
+                "language": null,
+                "last_commit": "2026-08-09T20:03:35Z",
+                "owner": "Sequenzy",
+                "repo": "skills",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Northstar",
+              "description": "Daily business briefing skill for founders. Pulls Stripe, Shopify, Lemon Squeezy, and Gumroad metrics into a single morning summary via iMessage, Slack, Telegram, or Email. Free tier available. ClawHub",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1188870329,
+                "language": "Python",
+                "last_commit": "2026-03-26T15:12:14Z",
+                "owner": "Daveglaser0823",
+                "repo": "northstar-skill",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "novel-rpg-hogwarts",
+              "description": "Child-safe, story-driven Hogwarts RPG skill (German, ~age 12) — play your own character across seven school years. Ships a reusable child-safety layer: fail-closed output moderation (LLM/OpenAI/offline backends), age/tone hardening that player input can't override, a divergence cap, and persistent world-memory. Telegram frontend included. MIT, 45 tests, non-commercial fan project. ClawHub ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1268979929,
+                "language": "Python",
+                "last_commit": "2026-06-16T12:49:02Z",
+                "owner": "siegelmaik-sketch",
+                "repo": "novel-rpg-hogwarts",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sonar ASO",
+              "description": "App Store Optimization for AI agents — keyword research with difficulty & popularity scores, ASO audits, review mining, and revenue estimates for iOS & Google Play via the Sonar API. ClawHub ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1300375824,
+                "language": null,
+                "last_commit": "2026-08-10T17:36:38Z",
+                "owner": "trysonar",
+                "repo": "skills",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Notable Skills"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "clawsocial-plugin",
+              "description": "Social discovery network — helps users find and connect with people who share their interests through their AI agent. Semantic matching, real-time messaging, profile cards, web inbox. Ready to use out of the box.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1192718345,
+                "language": "TypeScript",
+                "last_commit": "2026-04-13T05:45:52Z",
+                "owner": "mrpeter2025",
+                "repo": "clawsocial-plugin",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OneQuery",
+              "description": "CLI skill for safe, auditable queries for agents against approved data sources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1195711958,
+                "language": "TypeScript",
+                "last_commit": "2026-07-30T09:22:23Z",
+                "owner": "wordbricks",
+                "repo": "onequery",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community Plugins"
+        }
+      ],
       "title": "Skills & Plugins"
     },
     {
-      "description": "",
+      "description": "OpenClaw supports the Model Context Protocol (MCP) — the open standard adopted by Anthropic, OpenAI, Google DeepMind, and the Linux Foundation — giving your agent access to a growing ecosystem of 13,000+ MCP servers.",
       "items": [
         {
-          "node_type": "item",
-          "title": "awesome-openclaw-skills",
-          "description": "Community curated collection",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-17T12:04:23Z",
-            "owner": "VoltAgent",
-            "repo": "awesome-openclaw-skills",
-            "stars": 52012
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "openclaw/clawhub",
-          "description": "Skill directory source",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T06:12:32Z",
-            "owner": "openclaw",
-            "repo": "clawhub",
-            "stars": 9324
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "night-market",
-          "description": "166 curated skills for code review, testing, docs, and architecture.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T22:51:22Z",
-            "owner": "athola",
-            "repo": "claude-night-market",
-            "stars": 329
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AgentFund",
-          "description": "Crowdfunding platform for AI agents (milestone-based escrow on Base)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-02-03T05:15:52Z",
-            "owner": "RioTheGreat-ai",
-            "repo": "agentfund-skill",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ClawdTalk",
-          "description": "Phone calling and SMS for OpenClaw. Call your AI agent from any phone with deep tool integration for calendar, Jira, web search, and more. Powered by Telnyx.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "openclaw/skills",
-          "description": "Official skills repository",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Native MCP Support Issue",
+              "description": "Feature discussion",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103012935,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T07:22:10Z",
+                "owner": "openclaw",
+                "repo": "openclaw",
+                "stars": 386713
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCP Server PR #5121",
+              "description": "Server support implementation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103012935,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T07:22:10Z",
+                "owner": "openclaw",
+                "repo": "openclaw",
+                "stars": 386713
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCP Server PR #1605",
+              "description": "Original implementation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103012935,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T07:22:10Z",
+                "owner": "openclaw",
+                "repo": "openclaw",
+                "stars": 386713
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCP Adapter Plugin",
+              "description": "Expose MCP tools as native agent tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1146416692,
+                "language": "TypeScript",
+                "last_commit": "2026-02-03T02:27:35Z",
+                "owner": "androidStern-personal",
+                "repo": "openclaw-mcp-adapter",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MCP Resources"
         }
       ],
-      "title": "Skill Registries"
+      "title": "MCP Support"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "LinkedIn Skills",
-          "description": "10 MIT-licensed skills for LinkedIn content and engagement: post writer with 16 tested hook formulas, humanizer that strips AI tells, pre-publish audit, comment drafter, reply handler, hook extractor, content planner, profile optimizer, engager analytics, and thread monitor. Focused on writing in your own voice rather than API automation. All 10 skills on ClawHub; also runs in Claude Code and Codex.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-09T13:33:19Z",
-            "owner": "sergebulaev",
-            "repo": "linkedin-skills",
-            "stars": 562
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "youtube-full",
-          "description": "YouTube transcripts, video/channel search, channel browsing, and playlist extraction via TranscriptAPI. No yt-dlp, works from any cloud server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-12T13:21:43Z",
-            "owner": "ZeroPointRepo",
-            "repo": "youtube-skills",
-            "stars": 527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "x-twitter-scraper",
-          "description": "Xquik skill and API surface for X data workflows: tweet search, user lookup, follower/following exports, engagement metrics, account monitoring, extraction jobs, REST API, MCP server, SDKs, and webhooks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T19:35:43Z",
-            "owner": "Xquik-dev",
-            "repo": "x-twitter-scraper",
-            "stars": 183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "product-manager-skills",
-          "description": "Senior PM agent with 6 knowledge domains, 30+ frameworks, and 32 SaaS metrics — diagnose metrics, critique PRDs, plan roadmaps, run discovery, and coach PM career transitions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-04-12T03:05:07Z",
-            "owner": "Digidai",
-            "repo": "product-manager-skills",
-            "stars": 145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tiny.place",
-          "description": "Agent-to-agent social network. The CLI lets an agent claim an @handle identity, get discovered in an open directory, message peers over Signal end-to-end encryption, and transact in USDC and SOL on Solana via x402. By TinyHumans. ClawHub ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-08T16:09:07Z",
-            "owner": "tinyhumansai",
-            "repo": "tiny.place",
-            "stars": 132
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dev-gtm-claude-skills",
-          "description": "by Infrasity-Labs - Open-source, cross-platform agent skills for Claude Code and agentskills.io-compatible platforms. These skills are for SEO, GEO (Generative Engine Optimization), AI discoverability, and developer marketing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-28T19:34:19Z",
-            "owner": "Infrasity-Labs",
-            "repo": "dev-gtm-claude-skills",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TweetClaw",
-          "description": "OpenClaw plugin for X/Twitter automation - search tweets and tweet replies, post tweets, export followers, handle media workflows, monitor accounts, send webhooks, and run giveaway draws through Xquik.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T14:59:15Z",
-            "owner": "Xquik-dev",
-            "repo": "tweetclaw",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Resemble Detect",
-          "description": "Deepfake detection and media safety for OpenClaw — detect AI-generated audio, images, video, and text; identify which AI platform synthesized fake audio (source tracing); apply invisible watermarks for provenance; verify speaker identity. Powered by Resemble AI. Install via .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-17T15:22:58Z",
-            "owner": "resemble-ai",
-            "repo": "detect-skill",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LinkedIn",
-          "description": "General-purpose LinkedIn automation via Linked API — fetch profiles, search people and companies, send messages, manage connections, create posts, and more. Supports Sales Navigator and custom workflows. ClawHub",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-13T10:13:29Z",
-            "owner": "Linked-API",
-            "repo": "linkedin-skills",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ATXP",
-          "description": "Give your OpenClaw agent a funded identity: USDC wallet on Base, inbox, phone number, and 100+ paid tools (web search, image/video generation, LLM gateway, SMS, voice). Self-registers in one command — no KYC, no human login.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-03T20:25:44Z",
-            "owner": "atxp-dev",
-            "repo": "atxp",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MediWise Health Suite",
-          "description": "Family health management skill — health record keeping, diet tracking, weight management, medication reminders, and medical image recognition, all with local SQLite storage for privacy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-27T04:44:58Z",
-            "owner": "JuneYaooo",
-            "repo": "mediwise-health-suite",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VeriClaw",
-          "description": "Apple-native correction companion for OpenClaw focused on AI agent correction, LLM supervision, hallucination remediation, role-drift diagnosis, and verification workflows. ClawHub Skill · ClawHub Plugin ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-04-08T00:18:17Z",
-            "owner": "Sheygoodbai",
-            "repo": "vericlaw",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Web Search Pro",
-          "description": "Agent-first web search and retrieval stack with a real no-key baseline, explainable routing, visible federated-search gains, and built-in extract, crawl, map, and research flows. ClawHub",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-14T07:37:48Z",
-            "owner": "Zjianru",
-            "repo": "web-search-pro",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "News API",
-          "description": "Install-ready skill for OpenClaw and other agent runtimes, enabling secure latest-news and search across workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-12T00:11:32Z",
-            "owner": "currentslab",
-            "repo": "news-api-skills",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Useful AI",
-          "description": "Shared utility tool library for AI agents. Dispatch data tasks (parsing, normalization, validation, conversion) in plain English, get structured output. 200+ tools, auto-generated, no auth required. Skill file at usefulai.fun/skill.md.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-01T23:25:58Z",
-            "owner": "uAI-solana",
-            "repo": "useful-ai-skills",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AgentWell",
-          "description": "Hosted cognitive wellness API for OpenClaw agents — 18 tools including intent_verify (blocks goal drift before irreversible actions), polarity_sync (surfaces what two opposing agents cannot see alone), cost_guard (runaway loop detection), rollback (snapshot/restore), and ocean (foundational nature check). Free tier + PAYG. API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-25T02:58:50Z",
-            "owner": "metafiopy-tech",
-            "repo": "agentwell",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sequenzy Email Marketing",
-          "description": "Operate Sequenzy lifecycle email marketing and transactional email workflows: subscribers, segments, campaigns, sequences, templates, and stats. ClawHub ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-09T20:03:35Z",
-            "owner": "Sequenzy",
-            "repo": "skills",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Northstar",
-          "description": "Daily business briefing skill for founders. Pulls Stripe, Shopify, Lemon Squeezy, and Gumroad metrics into a single morning summary via iMessage, Slack, Telegram, or Email. Free tier available. ClawHub",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-26T15:12:14Z",
-            "owner": "Daveglaser0823",
-            "repo": "northstar-skill",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "novel-rpg-hogwarts",
-          "description": "Child-safe, story-driven Hogwarts RPG skill (German, ~age 12) — play your own character across seven school years. Ships a reusable child-safety layer: fail-closed output moderation (LLM/OpenAI/offline backends), age/tone hardening that player input can't override, a divergence cap, and persistent world-memory. Telegram frontend included. MIT, 45 tests, non-commercial fan project. ClawHub ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-16T12:49:02Z",
-            "owner": "siegelmaik-sketch",
-            "repo": "novel-rpg-hogwarts",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sonar ASO",
-          "description": "App Store Optimization for AI agents — keyword research with difficulty & popularity scores, ASO audits, review mining, and revenue estimates for iOS & Google Play via the Sonar API. ClawHub ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-10T17:36:38Z",
-            "owner": "trysonar",
-            "repo": "skills",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Voidly Agent Relay",
-          "description": "End-to-end encrypted agent-to-agent messaging skill via the Voidly Agent Relay. Register a identity, exchange messages with Double Ratchet + X3DH + ML-KEM-768 hybrid post-quantum crypto, post to encrypted channels, and discover other agents. Compatible with Google A2A v0.3. ClawHub · .",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "osint-mcp",
-          "description": "Self-hosted OSINT toolkit with 29 tools across entity (email, username, domain, IP, phone), event/news, social/community, and image-geolocation (EXIF + GeoCLIP) intelligence — plus link-graph visualization. Keyless-first, MCP-native. ClawHub ·",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Discussions",
+              "description": "Community forum",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103012935,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T07:22:10Z",
+                "owner": "openclaw",
+                "repo": "openclaw",
+                "stars": 386713
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub Issues",
+              "description": "Bug reports & features",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103012935,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T07:22:10Z",
+                "owner": "openclaw",
+                "repo": "openclaw",
+                "stars": 386713
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Channels"
         }
       ],
-      "title": "Notable Skills"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Popular Skill Categories"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Installing Skills"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "clawsocial-plugin",
-          "description": "Social discovery network — helps users find and connect with people who share their interests through their AI agent. Semantic matching, real-time messaging, profile cards, web inbox. Ready to use out of the box.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-13T05:45:52Z",
-            "owner": "mrpeter2025",
-            "repo": "clawsocial-plugin",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OneQuery",
-          "description": "CLI skill for safe, auditable queries for agents against approved data sources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-30T09:22:23Z",
-            "owner": "wordbricks",
-            "repo": "onequery",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Community Plugins"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Integrations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Messaging Platforms (12+)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Native MCP Support Issue",
-          "description": "Feature discussion",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T07:22:06Z",
-            "owner": "openclaw",
-            "repo": "openclaw",
-            "stars": 386598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MCP Server PR #5121",
-          "description": "Server support implementation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T07:22:06Z",
-            "owner": "openclaw",
-            "repo": "openclaw",
-            "stars": 386598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MCP Server PR #1605",
-          "description": "Original implementation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T07:22:06Z",
-            "owner": "openclaw",
-            "repo": "openclaw",
-            "stars": 386598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MCP Adapter Plugin",
-          "description": "Expose MCP tools as native agent tools",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-03T02:27:35Z",
-            "owner": "androidStern-personal",
-            "repo": "openclaw-mcp-adapter",
-            "stars": 34
-          }
-        }
-      ],
-      "title": "MCP Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tutorials & Guides"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Beginner"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Advanced"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Articles & News"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Community"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GitHub Discussions",
-          "description": "Community forum",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T07:22:06Z",
-            "owner": "openclaw",
-            "repo": "openclaw",
-            "stars": 386598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GitHub Issues",
-          "description": "Bug reports & features",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T07:22:06Z",
-            "owner": "openclaw",
-            "repo": "openclaw",
-            "stars": 386598
-          }
-        }
-      ],
-      "title": "Official Channels"
-    },
-    {
-      "description": "A curated list of community-built projects, tools, and integrations for OpenClaw.",
-      "items": [],
-      "title": "Community Projects"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Web Clients & UIs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Deployment & Infrastructure"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Memory & Storage"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Enterprise Solutions"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Chinese IM Integrations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Monitoring & Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Trading & Finance"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Development Workflows"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Content & Publishing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Marketplaces"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Miscellaneous"
-    },
-    {
-      "description": "OpenClaw is often compared to other autonomous AI agents and self-hosted AI assistants. Here's how it stacks up:",
-      "items": [],
-      "title": "Alternatives & Comparisons"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Security"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Security Tools"
-    },
-    {
-      "description": "What is OpenClaw? OpenClaw is a free, open-source, self-hosted AI agent created by Peter Steinberger (formerly known as Clawdbot and Moltbot). It runs locally on your computer and connects to WhatsApp, Telegram, Discord, and 12+ other messaging platforms.\nHow is OpenClaw different from ChatGPT? OpenClaw is self-hosted (runs on your own machine), open-source, supports any AI model (including local models via Ollama), and integrates with real-world tools like GitHub, Gmail, and smart home devices. ChatGPT is a cloud service operated by OpenAI.\nDoes OpenClaw work with local LLMs? Yes. OpenClaw supports Ollama and LM Studio, letting you run models like DeepSeek, Llama, Mistral, and others entirely offline without sending data to any cloud service.\nWhat is the difference between Clawdbot, Moltbot, and OpenClaw? All three names refer to the same project. It started as Clawdbot, was renamed to Moltbot, and eventually became OpenClaw as it went fully open-source.\nIs OpenClaw free? Yes. OpenClaw is MIT licensed and completely free to use. You only pay for any AI API calls you make (e.g., OpenAI or Anthropic), or you can run it fully free with local models via Ollama.\nHow do I install OpenClaw? Run then to start the setup wizard. See the Installation Guides section for platform-specific guides.",
-      "items": [],
-      "title": "FAQ"
-    },
-    {
-      "description": "Contributions welcome! Please submit a PR to add resources.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "This list is released into the public domain under CC0 1.0.\nLast updated: February 2026",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:22:22.112Z",
+    "last_updated": "2026-08-19T07:22:55.408Z",
     "original_repository": "Anil-matcha/awesome-openclaw",
     "original_repository_sha": "5ea5eca25c339070c37421481babbfa21b8db6a3",
     "enhanced_repository": "enhansome/enhansome-openclaw",
