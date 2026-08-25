@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:02:07Z",
+            "last_commit": "2026-08-25T07:27:17Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387488
+            "stars": 387505
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:02:07Z",
+            "last_commit": "2026-08-25T07:27:17Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387488
+            "stars": 387505
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:02:07Z",
+            "last_commit": "2026-08-25T07:27:17Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387488
+            "stars": 387505
           }
         },
         {
@@ -57,10 +57,25 @@
             "archived": false,
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:02:07Z",
+            "last_commit": "2026-08-25T07:27:17Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387488
+            "stars": 387505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Darkmoon",
+          "description": "Open source (GPL-3.0) autonomous AI pentest platform and MCP host, covering web, API, Active Directory and Kubernetes, with proof of exploitation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 894433723,
+            "language": "Python",
+            "last_commit": "2026-08-23T15:48:25Z",
+            "owner": "ASCIT31",
+            "repo": "Dark-Moon",
+            "stars": 869
           }
         },
         {
@@ -125,10 +140,10 @@
                 "archived": false,
                 "id": 1127248221,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T02:38:26Z",
+                "last_commit": "2026-08-25T07:21:05Z",
                 "owner": "openclaw",
                 "repo": "clawhub",
-                "stars": 9347
+                "stars": 9348
               }
             },
             {
@@ -144,6 +159,21 @@
                 "owner": "athola",
                 "repo": "claude-night-market",
                 "stars": 330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hexis",
+              "description": "Git-backed platform for skills, tools, and context for AI agents, accessible from OpenClaw through its remote MCP server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1317304497,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T13:36:09Z",
+                "owner": "Bevel-Software",
+                "repo": "Hexis",
+                "stars": 78
               }
             },
             {
@@ -335,6 +365,36 @@
             },
             {
               "node_type": "item",
+              "title": "UIZZE",
+              "description": "Portable anti-UI-slop Skill for coding agents, with a free deterministic MCP preview and UI Slop Gate grounded in 800,000+ real web and iOS screens. Install with ; it runs locally without an account or source upload.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1301842069,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T10:14:01Z",
+                "owner": "uizze",
+                "repo": "uizze",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "0xArchive Skill",
+              "description": "Market-data skill for accessing Hyperliquid and Lighter data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1163040616,
+                "language": null,
+                "last_commit": "2026-08-24T23:23:10Z",
+                "owner": "0xArchiveIO",
+                "repo": "0xarchive-skill",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
               "title": "News API",
               "description": "Install-ready skill for OpenClaw and other agent runtimes, enabling secure latest-news and search across workflows.",
               "children": [],
@@ -346,6 +406,21 @@
                 "owner": "currentslab",
                 "repo": "news-api-skills",
                 "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mnemosyne",
+              "description": "Zero-dependency cognitive memory engine for OpenClaw/Hermes: compound-cue theory retrieval (nDCG 0.238, 5.2× over BM25), pure Markdown storage, zero API keys, data never leaves the machine. Install:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1326390638,
+                "language": "JavaScript",
+                "last_commit": "2026-08-22T12:13:11Z",
+                "owner": "ElonAug7",
+                "repo": "Mnemosyne-agentmemory-engine-openclaw-hermes",
+                "stars": 3
               }
             },
             {
@@ -440,6 +515,21 @@
             },
             {
               "node_type": "item",
+              "title": "OutageDeck Dependency Outage Triage",
+              "description": "Check vendor-published cloud and SaaS incident evidence before changing code. No account, API key, executable, or environment variable required.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1324445550,
+                "language": null,
+                "last_commit": "2026-08-18T16:53:41Z",
+                "owner": "outagedeck",
+                "repo": "triage-dependency-outages",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
               "title": "novel-rpg-hogwarts",
               "description": "Child-safe, story-driven Hogwarts RPG skill (German, ~age 12) — play your own character across seven school years. Ships a reusable child-safety layer: fail-closed output moderation (LLM/OpenAI/offline backends), age/tone hardening that player input can't override, a divergence cap, and persistent world-memory. Telegram frontend included. MIT, 45 tests, non-commercial fan project. ClawHub ·",
               "children": [],
@@ -526,6 +616,21 @@
                 "repo": "onequery",
                 "stars": 17
               }
+            },
+            {
+              "node_type": "item",
+              "title": "AI Router Provider",
+              "description": "OpenAI-compatible OpenClaw provider plugin for AI Router, with authenticated model discovery and manual fallback. ClawHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1312675554,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T10:43:27Z",
+                "owner": "airouter-dev",
+                "repo": "openclaw-ai-router",
+                "stars": 0
+              }
             }
           ],
           "description": null,
@@ -564,10 +669,10 @@
                 "archived": false,
                 "id": 1103012935,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:02:07Z",
+                "last_commit": "2026-08-25T07:27:17Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 387488
+                "stars": 387505
               }
             },
             {
@@ -579,10 +684,10 @@
                 "archived": false,
                 "id": 1103012935,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:02:07Z",
+                "last_commit": "2026-08-25T07:27:17Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 387488
+                "stars": 387505
               }
             },
             {
@@ -594,10 +699,10 @@
                 "archived": false,
                 "id": 1103012935,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:02:07Z",
+                "last_commit": "2026-08-25T07:27:17Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 387488
+                "stars": 387505
               }
             },
             {
@@ -622,6 +727,36 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Agent QA",
+              "description": "Open-source self-improving QA agent for natural-language web and mobile testing, with persistent test memory, self-healing workflows, and an MCP server available through .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1232322871,
+                "language": "TypeScript",
+                "last_commit": "2026-08-03T18:44:59Z",
+                "owner": "vostride",
+                "repo": "agent-qa",
+                "stars": 961
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open Index",
+              "description": "Structured context graph for domain-specific agents with hybrid search, validated read/write MCP tools, and a portable OpenClaw setup skill.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1318866816,
+                "language": "Python",
+                "last_commit": "2026-08-12T07:33:27Z",
+                "owner": "DrDroidLab",
+                "repo": "open-index",
+                "stars": 106
+              }
+            },
             {
               "node_type": "item",
               "title": "AI Image Generator & Editor — Nanobanana, GPT Image, ComfyUI",
@@ -650,6 +785,21 @@
                 "owner": "MohamedAbdallah-14",
                 "repo": "prompt-to-asset",
                 "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NotFair",
+              "description": "Hosted OAuth MCP connectors for Google Ads, Meta Ads, and Google Search Console. Lets OpenClaw agents audit live account data and apply approval-gated campaign changes with change history. The public app and skills are MIT licensed; hosted connections are available at notfair.co.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1193374549,
+                "language": "TypeScript",
+                "last_commit": "2026-08-25T04:59:51Z",
+                "owner": "nowork-studio",
+                "repo": "notfair-plugin",
+                "stars": 3401
               }
             },
             {
@@ -773,7 +923,7 @@
               }
             }
           ],
-          "description": "| TWZRD Agent Intel | Trust scoring for Solana AI agents. + free; via x402. Config: | | The Stall | 210 pay-per-call data intelligence capabilities via x402 micropayments (no API key). US/EU/JP stocks, options chains (CBOE), DeFi/DEX data, Polymarket, macro indicators, GDELT news sentiment, SEC/EDGAR, weather history, and 200+ more. Config: | | VideoOverlayKit | Render 4-6s animated b-roll overlay videos (mp4) for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape YouTube. AI-driven via MCP: paste your script into Claude Code / Cursor / Codex, the model writes the scene spec and renders the mp4. Built on Remotion + Tabler + Lottie. npm: . Free, MIT, local. |",
+          "description": "| TWZRD Agent Intel | Trust scoring for Solana AI agents. + free; via x402. Config: | | The Stall | 210 pay-per-call data intelligence capabilities via x402 micropayments (no API key). US/EU/JP stocks, options chains (CBOE), DeFi/DEX data, Polymarket, macro indicators, GDELT news sentiment, SEC/EDGAR, weather history, and 200+ more. Config: | | VideoOverlayKit | Render 4-6s animated b-roll overlay videos (mp4) for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape YouTube. AI-driven via MCP: paste your script into Claude Code / Cursor / Codex, the model writes the scene spec and renders the mp4. Built on Remotion + Tabler + Lottie. npm: . Free, MIT, local. | | Publora | Schedule and publish social posts across 10 networks (LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, Bluesky, Mastodon, Telegram). 16 tools for creating, updating and deleting scheduled posts, uploading media, listing connected channels and LinkedIn engagement. Hosted streamable-HTTP at with OAuth 2.1 or Bearer key; npm |",
           "node_type": "group",
           "title": "MCP Servers"
         }
@@ -794,10 +944,10 @@
                 "archived": false,
                 "id": 1103012935,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:02:07Z",
+                "last_commit": "2026-08-25T07:27:17Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 387488
+                "stars": 387505
               }
             },
             {
@@ -809,10 +959,10 @@
                 "archived": false,
                 "id": 1103012935,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:02:07Z",
+                "last_commit": "2026-08-25T07:27:17Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 387488
+                "stars": 387505
               }
             }
           ],
@@ -952,7 +1102,7 @@
                 "last_commit": "2026-08-21T14:17:29Z",
                 "owner": "memovai",
                 "repo": "mimiclaw",
-                "stars": 5726
+                "stars": 5725
               }
             },
             {
@@ -1158,6 +1308,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "weixin-codex-bridge",
+              "description": "6 Security-first, local WeChat-to-Codex bridge that reuses an existing Weixin/OpenClaw login state; includes default-deny roles, session isolation, workspace sandboxing, and a durable SQLite inbox.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1188497984,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T01:10:29Z",
+                "owner": "leilong611-ai",
+                "repo": "weixin-codex-bridge",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chinese IM Integrations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Manifest",
               "description": "3.3k Real-time cost observability for OpenClaw agents — track tokens, costs, messages, and model usage with a local-first dashboard. Supports 28+ LLM models. Website",
               "children": [],
@@ -1289,6 +1461,21 @@
                 "owner": "camilla-oclm",
                 "repo": "openclaw_status_app",
                 "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ClawMetry",
+              "description": "395 Real-time observability dashboard for OpenClaw: live sessions, token costs, tool calls, crons, and memory, one pip install.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1156882085,
+                "language": "Python",
+                "last_commit": "2026-08-25T07:18:40Z",
+                "owner": "vivekchand",
+                "repo": "clawmetry",
+                "stars": 402
               }
             }
           ],
@@ -1571,10 +1758,10 @@
             "archived": false,
             "id": 614765452,
             "language": "Python",
-            "last_commit": "2026-08-25T06:00:03Z",
+            "last_commit": "2026-08-25T07:04:32Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186852
+            "stars": 186853
           }
         },
         {
@@ -1646,10 +1833,10 @@
             "archived": false,
             "id": 1024554267,
             "language": "Python",
-            "last_commit": "2026-08-25T04:51:46Z",
+            "last_commit": "2026-08-25T07:21:43Z",
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 235971
+            "stars": 236030
           }
         },
         {
@@ -1676,10 +1863,25 @@
             "archived": false,
             "id": 1161163182,
             "language": "Rust",
-            "last_commit": "2026-08-24T19:04:47Z",
+            "last_commit": "2026-08-25T07:02:27Z",
             "owner": "tinyhumansai",
             "repo": "openhuman",
-            "stars": 37395
+            "stars": 37433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orkas",
+          "description": "Open Source Local-first multi-agent desktop workspace; OpenClaw can run as a CLI backend alongside Claude Code, Codex, OpenCode, and Cline. Source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1224575142,
+            "language": "TypeScript",
+            "last_commit": "2026-08-25T03:18:11Z",
+            "owner": "Orkas-AI",
+            "repo": "Orkas",
+            "stars": 1428
           }
         },
         {
@@ -1706,7 +1908,7 @@
             "archived": false,
             "id": 1262267135,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:19:13Z",
+            "last_commit": "2026-08-25T07:07:19Z",
             "owner": "MarlBurroW",
             "repo": "hivekeep",
             "stars": 48
@@ -1774,7 +1976,7 @@
                 "archived": false,
                 "id": 1175900220,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T20:59:21Z",
+                "last_commit": "2026-08-25T07:08:03Z",
                 "owner": "onecli",
                 "repo": "onecli",
                 "stars": 3397
@@ -1880,10 +2082,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:34.086Z",
+    "last_updated": "2026-08-25T07:27:43.277Z",
     "original_repository": "Anil-matcha/awesome-openclaw",
     "original_repository_id": 784773119,
-    "original_repository_sha": "5ea5eca25c339070c37421481babbfa21b8db6a3",
+    "original_repository_sha": "4ba9f70982817ac8dc99435ff8bd0f890631275e",
     "enhanced_repository": "enhansome/enhansome-openclaw",
     "enhanced_repository_description": null,
     "title": "Awesome OpenClaw with stars"
